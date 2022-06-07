@@ -87,7 +87,6 @@ object Form24: TForm24
     Width = 241
     Height = 21
     TabOrder = 3
-    Text = '2b6a7579-e594-11ec-9df1-5254000a39cb'
   end
   object edtCNPJ: TEdit
     Left = 8
@@ -95,7 +94,6 @@ object Form24: TForm24
     Width = 241
     Height = 21
     TabOrder = 4
-    Text = '20555971000105'
   end
   object GroupBox1: TGroupBox
     Left = 8
